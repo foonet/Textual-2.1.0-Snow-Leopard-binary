@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IRC_CHANNEL_HAS_MODES</key>
+	<string>Mod-ul este: %@</string>
+	<key>IRC_CHANNEL_HAS_TOPIC</key>
+	<string>Topic-ul este: %@</string>
+	<key>IRC_CHANNEL_HAS_WEBSITE</key>
+	<string>Site-ul este: %@</string>
+	<key>IRC_MDOE_SET</key>
+	<string>%1$@ a setat mod-ul %2$@</string>
+	<key>IRC_RECIEVED_CTCP_REPLY</key>
+	<string>-%1$@ CTCP- %2$@ %3$@</string>
+	<key>IRC_RECIEVED_CTCP_REQUEST</key>
+	<string>-CTCP- %1$@ de la %2$@</string>
+	<key>IRC_CHANNEL_HAS_TOPIC_AUTHOR</key>
+	<string>Setat de catre %1$@ pe %2$@</string>
+	<key>IRC_USER_DISCONNECTED</key>
+	<string>%1$@ (%2$@@%3$@) a parasit IRC-ul.</string>
+	<key>IRC_USER_CHANGED_NICKNAME</key>
+	<string>%1$@ si-a schimbat numele in %2$@</string>
+	<key>IRC_HAS_IGNORED_CTCP</key>
+	<string>-CTCP- %1$@ de la %2$@ a fost ignorat.</string>
+	<key>IRC_USER_PARTED_CHANNEL</key>
+	<string>%1$@ (%2$@@%3$@) a parasit canal-ul.</string>
+	<key>IRC_RECIEVED_CTCP_PING_REPLY</key>
+	<string>-%1$@ CTCP- %2$@ (%3$1.5f secunde)</string>
+	<key>IRC_USER_JOINED_CHANNEL</key>
+	<string>%1$@ (%2$@@%3$@) a intrat pe canal.</string>
+	<key>IRC_CHANNEL_TOPIC_CHANGED</key>
+	<string>%1$@ a schimbat topic-ul in %2$@</string>
+	<key>IRC_USER_KICKED_FROM_CHANNEL</key>
+	<string>%1$@ a fost dat afara %2$@ de pe canal. (%3$@)</string>
+</dict>
+</plist>
